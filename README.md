@@ -16,16 +16,9 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-This is a practice using a dogs API and a search functionality.
-
-https://github.com/user-attachments/assets/ad4fa927-c40d-428f-b576-12cb19f2ba05
+This is a practice using events of the elements.
 
 ### Form Elements and Events
 
-| Element       | Event            | Description                                                           |
-| ------------- | ---------------- | --------------------------------------------------------------------- |
-| Text Field    | onChange         | Updates the `text` state as the user types.                           |
-| Dropdown      | onChange         | Updates the `dropdown` state when a new option is selected.           |
-| Checkbox      | onChange         | Updates the `checked` state when toggled.                             |
-| Radio Button  | onChange         | Updates the `radio` state when a radio option is selected.            |
-| Submit Button | onClick/onSubmit | Triggers form submission, prevents default, and displays form values. |
+https://github.com/user-attachments/assets/01109e16-c887-468e-a485-46a3018dd321
+
